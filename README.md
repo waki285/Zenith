@@ -1,0 +1,2 @@
+# Zenith
+My Zsh Theme
